@@ -2,5 +2,5 @@
 
 void main(){
 	printf("hello world\n")
-	printf("My hobby is watching TV\n")
+	printf("My hobby is sleeping!\n")
 }
